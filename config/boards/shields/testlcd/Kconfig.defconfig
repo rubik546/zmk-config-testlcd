@@ -1,0 +1,6 @@
+if SHIELD_TESTLCD
+
+config ZMK_KEYBOARD_NAME
+    default "testlcd"
+
+endif
